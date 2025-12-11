@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: Sergeant-Boi-Chonks
+-
+user: /home/asteri-lymenos
+desktop: /home/asteri-lymenos/Desktop
+desk: /home/asteri-lymenos/Desktop
+documents: /home/asteri-lymenos/Documents
+docks: /home/asteri-lymenos/Documents
+downloads: /home/asteri-lymenos/Downloads
+music: /home/asteri-lymenos/Music
+pictures: /home/asteri-lymenos/Pictures
+videos: /home/asteri-lymenos/Videos
+talon home: /home/asteri-lymenos/.talon
+talon recordings: /home/asteri-lymenos/.talon/recordings
+talon user: /home/asteri-lymenos/.talon/user
+home: /home/asteri-lymenos
